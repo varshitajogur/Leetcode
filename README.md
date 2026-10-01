@@ -8,6 +8,7 @@
 | ------- |
 | [0610-triangle-judgement](https://github.com/varshitajogur/Leetcode/tree/master/0610-triangle-judgement) |
 | [1164-product-price-at-a-given-date](https://github.com/varshitajogur/Leetcode/tree/master/1164-product-price-at-a-given-date) |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/varshitajogur/Leetcode/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1789-primary-department-for-each-employee](https://github.com/varshitajogur/Leetcode/tree/master/1789-primary-department-for-each-employee) |
 ## Linked List
 |  |
