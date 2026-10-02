@@ -10,6 +10,7 @@
 | [1164-product-price-at-a-given-date](https://github.com/varshitajogur/Leetcode/tree/master/1164-product-price-at-a-given-date) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/varshitajogur/Leetcode/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1789-primary-department-for-each-employee](https://github.com/varshitajogur/Leetcode/tree/master/1789-primary-department-for-each-employee) |
+| [1907-count-salary-categories](https://github.com/varshitajogur/Leetcode/tree/master/1907-count-salary-categories) |
 ## Linked List
 |  |
 | ------- |
