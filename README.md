@@ -11,6 +11,7 @@
 | [1204-last-person-to-fit-in-the-bus](https://github.com/varshitajogur/Leetcode/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1789-primary-department-for-each-employee](https://github.com/varshitajogur/Leetcode/tree/master/1789-primary-department-for-each-employee) |
 | [1907-count-salary-categories](https://github.com/varshitajogur/Leetcode/tree/master/1907-count-salary-categories) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/varshitajogur/Leetcode/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Linked List
 |  |
 | ------- |
