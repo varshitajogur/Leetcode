@@ -15,6 +15,7 @@
 | [1204-last-person-to-fit-in-the-bus](https://github.com/varshitajogur/Leetcode/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1321-restaurant-growth](https://github.com/varshitajogur/Leetcode/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/varshitajogur/Leetcode/tree/master/1341-movie-rating) |
+| [1527-patients-with-a-condition](https://github.com/varshitajogur/Leetcode/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/varshitajogur/Leetcode/tree/master/1667-fix-names-in-a-table) |
 | [1789-primary-department-for-each-employee](https://github.com/varshitajogur/Leetcode/tree/master/1789-primary-department-for-each-employee) |
 | [1907-count-salary-categories](https://github.com/varshitajogur/Leetcode/tree/master/1907-count-salary-categories) |
