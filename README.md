@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0185-department-top-three-salaries](https://github.com/varshitajogur/Leetcode/tree/master/0185-department-top-three-salaries) |
+| [0196-delete-duplicate-emails](https://github.com/varshitajogur/Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0585-investments-in-2016](https://github.com/varshitajogur/Leetcode/tree/master/0585-investments-in-2016) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/varshitajogur/Leetcode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0610-triangle-judgement](https://github.com/varshitajogur/Leetcode/tree/master/0610-triangle-judgement) |
