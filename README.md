@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/varshitajogur/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/varshitajogur/Leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Stack
 |  |
 | ------- |
@@ -136,6 +137,7 @@
 | [0399-evaluate-division](https://github.com/varshitajogur/Leetcode/tree/master/0399-evaluate-division) |
 | [0994-rotting-oranges](https://github.com/varshitajogur/Leetcode/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/varshitajogur/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/varshitajogur/Leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/varshitajogur/Leetcode/tree/master/2542-maximum-subsequence-score) |
 ## String
 |  |
@@ -172,6 +174,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/varshitajogur/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [2336-smallest-number-in-infinite-set](https://github.com/varshitajogur/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/varshitajogur/Leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/varshitajogur/Leetcode/tree/master/2542-maximum-subsequence-score) |
 ## Quickselect
 |  |
@@ -193,4 +196,8 @@
 |  |
 | ------- |
 | [2542-maximum-subsequence-score](https://github.com/varshitajogur/Leetcode/tree/master/2542-maximum-subsequence-score) |
+## Simulation
+|  |
+| ------- |
+| [2462-total-cost-to-hire-k-workers](https://github.com/varshitajogur/Leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
 <!---LeetCode Topics End-->
