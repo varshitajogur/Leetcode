@@ -116,6 +116,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/varshitajogur/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0450-delete-node-in-a-bst](https://github.com/varshitajogur/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/varshitajogur/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Graph Theory
@@ -200,4 +201,8 @@
 |  |
 | ------- |
 | [2462-total-cost-to-hire-k-workers](https://github.com/varshitajogur/Leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/varshitajogur/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
