@@ -106,6 +106,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/varshitajogur/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0790-domino-and-tromino-tiling](https://github.com/varshitajogur/Leetcode/tree/master/0790-domino-and-tromino-tiling) |
 | [1137-n-th-tribonacci-number](https://github.com/varshitajogur/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/varshitajogur/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/varshitajogur/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## DP on Trees
 |  |
@@ -160,6 +161,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/varshitajogur/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0399-evaluate-division](https://github.com/varshitajogur/Leetcode/tree/master/0399-evaluate-division) |
+| [1143-longest-common-subsequence](https://github.com/varshitajogur/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Shortest Path
 |  |
 | ------- |
@@ -241,4 +243,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/varshitajogur/Leetcode/tree/master/0062-unique-paths) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/varshitajogur/Leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
