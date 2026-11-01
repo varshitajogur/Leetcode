@@ -103,6 +103,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/varshitajogur/Leetcode/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/varshitajogur/Leetcode/tree/master/0198-house-robber) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/varshitajogur/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/varshitajogur/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0790-domino-and-tromino-tiling](https://github.com/varshitajogur/Leetcode/tree/master/0790-domino-and-tromino-tiling) |
 | [1137-n-th-tribonacci-number](https://github.com/varshitajogur/Leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -149,6 +150,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/varshitajogur/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/varshitajogur/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0399-evaluate-division](https://github.com/varshitajogur/Leetcode/tree/master/0399-evaluate-division) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/varshitajogur/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/varshitajogur/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/varshitajogur/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/varshitajogur/Leetcode/tree/master/0994-rotting-oranges) |
@@ -216,6 +218,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/varshitajogur/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2542-maximum-subsequence-score](https://github.com/varshitajogur/Leetcode/tree/master/2542-maximum-subsequence-score) |
 ## Simulation
 |  |
