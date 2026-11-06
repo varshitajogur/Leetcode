@@ -44,6 +44,7 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/varshitajogur/Leetcode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/varshitajogur/Leetcode/tree/master/0901-online-stock-span) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/varshitajogur/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Tree
 |  |
@@ -229,6 +230,7 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/varshitajogur/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0901-online-stock-span](https://github.com/varshitajogur/Leetcode/tree/master/0901-online-stock-span) |
 | [2336-smallest-number-in-infinite-set](https://github.com/varshitajogur/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Ordered Set
 |  |
@@ -286,4 +288,9 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/varshitajogur/Leetcode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/varshitajogur/Leetcode/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/varshitajogur/Leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
