@@ -43,6 +43,7 @@
 ## Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/varshitajogur/Leetcode/tree/master/0739-daily-temperatures) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/varshitajogur/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Tree
 |  |
@@ -158,6 +159,7 @@
 | [0435-non-overlapping-intervals](https://github.com/varshitajogur/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/varshitajogur/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/varshitajogur/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0739-daily-temperatures](https://github.com/varshitajogur/Leetcode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/varshitajogur/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/varshitajogur/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/varshitajogur/Leetcode/tree/master/0994-rotting-oranges) |
@@ -280,4 +282,8 @@
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/varshitajogur/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [1268-search-suggestions-system](https://github.com/varshitajogur/Leetcode/tree/master/1268-search-suggestions-system) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/varshitajogur/Leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
