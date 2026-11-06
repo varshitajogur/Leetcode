@@ -105,6 +105,7 @@
 | [0072-edit-distance](https://github.com/varshitajogur/Leetcode/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/varshitajogur/Leetcode/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/varshitajogur/Leetcode/tree/master/0338-counting-bits) |
+| [0435-non-overlapping-intervals](https://github.com/varshitajogur/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/varshitajogur/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/varshitajogur/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0790-domino-and-tromino-tiling](https://github.com/varshitajogur/Leetcode/tree/master/0790-domino-and-tromino-tiling) |
@@ -154,6 +155,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/varshitajogur/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/varshitajogur/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0399-evaluate-division](https://github.com/varshitajogur/Leetcode/tree/master/0399-evaluate-division) |
+| [0435-non-overlapping-intervals](https://github.com/varshitajogur/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/varshitajogur/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/varshitajogur/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/varshitajogur/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -197,6 +199,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/varshitajogur/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0435-non-overlapping-intervals](https://github.com/varshitajogur/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1268-search-suggestions-system](https://github.com/varshitajogur/Leetcode/tree/master/1268-search-suggestions-system) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/varshitajogur/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2542-maximum-subsequence-score](https://github.com/varshitajogur/Leetcode/tree/master/2542-maximum-subsequence-score) |
@@ -230,6 +233,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/varshitajogur/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/varshitajogur/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2542-maximum-subsequence-score](https://github.com/varshitajogur/Leetcode/tree/master/2542-maximum-subsequence-score) |
 ## Simulation
