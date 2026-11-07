@@ -15,6 +15,7 @@
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/varshitajogur/Leetcode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0610-triangle-judgement](https://github.com/varshitajogur/Leetcode/tree/master/0610-triangle-judgement) |
 | [0626-exchange-seats](https://github.com/varshitajogur/Leetcode/tree/master/0626-exchange-seats) |
+| [1148-article-views-i](https://github.com/varshitajogur/Leetcode/tree/master/1148-article-views-i) |
 | [1164-product-price-at-a-given-date](https://github.com/varshitajogur/Leetcode/tree/master/1164-product-price-at-a-given-date) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/varshitajogur/Leetcode/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1321-restaurant-growth](https://github.com/varshitajogur/Leetcode/tree/master/1321-restaurant-growth) |
