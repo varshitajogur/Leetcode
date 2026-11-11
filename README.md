@@ -13,6 +13,7 @@
 | [0184-department-highest-salary](https://github.com/varshitajogur/Leetcode/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/varshitajogur/Leetcode/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/varshitajogur/Leetcode/tree/master/0196-delete-duplicate-emails) |
+| [0511-game-play-analysis-i](https://github.com/varshitajogur/Leetcode/tree/master/0511-game-play-analysis-i) |
 | [0585-investments-in-2016](https://github.com/varshitajogur/Leetcode/tree/master/0585-investments-in-2016) |
 | [0595-big-countries](https://github.com/varshitajogur/Leetcode/tree/master/0595-big-countries) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/varshitajogur/Leetcode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
