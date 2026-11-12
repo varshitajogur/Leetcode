@@ -37,6 +37,7 @@
 | [1873-calculate-special-bonus](https://github.com/varshitajogur/Leetcode/tree/master/1873-calculate-special-bonus) |
 | [1907-count-salary-categories](https://github.com/varshitajogur/Leetcode/tree/master/1907-count-salary-categories) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/varshitajogur/Leetcode/tree/master/1978-employees-whose-manager-left-the-company) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/varshitajogur/Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Linked List
 |  |
 | ------- |
