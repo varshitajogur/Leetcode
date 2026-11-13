@@ -32,6 +32,7 @@
 | [1527-patients-with-a-condition](https://github.com/varshitajogur/Leetcode/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/varshitajogur/Leetcode/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/varshitajogur/Leetcode/tree/master/1683-invalid-tweets) |
+| [1693-daily-leads-and-partners](https://github.com/varshitajogur/Leetcode/tree/master/1693-daily-leads-and-partners) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/varshitajogur/Leetcode/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/varshitajogur/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1789-primary-department-for-each-employee](https://github.com/varshitajogur/Leetcode/tree/master/1789-primary-department-for-each-employee) |
