@@ -25,6 +25,7 @@
 | [1148-article-views-i](https://github.com/varshitajogur/Leetcode/tree/master/1148-article-views-i) |
 | [1164-product-price-at-a-given-date](https://github.com/varshitajogur/Leetcode/tree/master/1164-product-price-at-a-given-date) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/varshitajogur/Leetcode/tree/master/1204-last-person-to-fit-in-the-bus) |
+| [1280-students-and-examinations](https://github.com/varshitajogur/Leetcode/tree/master/1280-students-and-examinations) |
 | [1321-restaurant-growth](https://github.com/varshitajogur/Leetcode/tree/master/1321-restaurant-growth) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/varshitajogur/Leetcode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1341-movie-rating](https://github.com/varshitajogur/Leetcode/tree/master/1341-movie-rating) |
