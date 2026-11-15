@@ -58,6 +58,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/varshitajogur/Leetcode/tree/master/0088-merge-sorted-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/varshitajogur/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/varshitajogur/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/varshitajogur/Leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
@@ -172,6 +173,7 @@
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/varshitajogur/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/varshitajogur/Leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/varshitajogur/Leetcode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/varshitajogur/Leetcode/tree/master/0198-house-robber) |
@@ -223,6 +225,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/varshitajogur/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/varshitajogur/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/varshitajogur/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/varshitajogur/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
