@@ -64,6 +64,7 @@
 | [0042-trapping-rain-water](https://github.com/varshitajogur/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/varshitajogur/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/varshitajogur/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/varshitajogur/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/varshitajogur/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/varshitajogur/Leetcode/tree/master/0189-rotate-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/varshitajogur/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -234,6 +235,7 @@
 | [0058-length-of-last-word](https://github.com/varshitajogur/Leetcode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/varshitajogur/Leetcode/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/varshitajogur/Leetcode/tree/master/0072-edit-distance) |
+| [0125-valid-palindrome](https://github.com/varshitajogur/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/varshitajogur/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/varshitajogur/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0399-evaluate-division](https://github.com/varshitajogur/Leetcode/tree/master/0399-evaluate-division) |
